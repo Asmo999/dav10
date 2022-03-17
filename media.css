@@ -1,0 +1,37 @@
+@media (max-width:1102px) {
+    .dflexc {
+        flex-direction: column;
+        align-items: center;
+    }
+    textarea {
+        width: 352px;
+        margin: 0 auto;
+    }
+    header {
+        text-align : center;
+        
+    }
+    h2 {
+        text-align: center;
+    }
+    .dflex {
+        flex-direction: column;
+        align-items: center;
+    }
+    .divmargin1 {
+        text-align: center;
+    
+}
+    .mr {
+        margin-right: 0px;
+    }
+    .mr1 {
+        margin-right: 0px;
+    }
+    .divmargi {
+        padding-top: 0px;
+    } 
+    .mr1 > ul > li {
+        margin-bottom: 4px;
+    }
+}
